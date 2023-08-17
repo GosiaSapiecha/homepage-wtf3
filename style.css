@@ -44,7 +44,7 @@ h3 {
   padding-left: 165px;
 }
 
-.background_purple {
+.background_purple_article {
   background-color: #e2cdfa;
   padding: 0px 10px 0px 10px;
 }
@@ -90,7 +90,7 @@ h2 {
   height: 150px;
 }
 
-.background_yellow {
+.background_yellow_article {
   background-color: #fbfce1;
   padding: 0px 10px 0px 10px;
 }
@@ -138,4 +138,34 @@ h2 {
 
 .background_green_header {
   background-color: #a6f7ab;
+}
+
+.image_green_border {
+  border: 10px double #7bbd7f;
+  margin: 0.2%;
+}
+
+.green_text_border {
+  border: 6px double #7bbd7f;
+  height: 200px;
+}
+
+.background_green_article {
+  background-color: #b8ffbb;
+}
+
+#e {
+  width: 75%;
+  float: left;
+  padding-top: 0.5%;
+  padding-left: 0.5%;
+}
+
+#f {
+  padding-left: 37%;
+}
+
+.div_flexbox_green {
+  display: flex;
+  flex-direction: column;
 }
