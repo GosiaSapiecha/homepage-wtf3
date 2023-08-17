@@ -131,3 +131,11 @@ h2 {
   margin: auto;
   padding: 21px;
 }
+
+.section_green {
+  background-color: #deffe0;
+}
+
+.background_green_header {
+  background-color: #a6f7ab;
+}
