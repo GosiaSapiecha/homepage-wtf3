@@ -73,7 +73,7 @@ h2 {
   font-size: larger;
 }
 
-.section_one {
+.section_purple {
   background-color: #f1e6ff;
 }
 
@@ -95,6 +95,13 @@ h2 {
   padding: 0px 10px 0px 10px;
 }
 
-.section_two {
+.section_yellow {
   background-color: #f9fae8;
+}
+
+.header_polnocna {
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #a5f0ab;
 }
