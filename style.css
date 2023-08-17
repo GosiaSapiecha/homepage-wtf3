@@ -105,3 +105,29 @@ h2 {
   box-sizing: border-box;
   background-color: #a5f0ab;
 }
+
+.navigation_link_index {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  margin: 0px 10px 0px 10px;
+  box-sizing: border-box;
+  background-color: #c19aed;
+}
+
+.navigation_link_polnocna {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  margin: 0px 10px 0px 10px;
+  box-sizing: border-box;
+  background-color: #77d17f ;
+}
+
+.navigation {
+  font-size: larger;
+  font-weight: bold;
+  font-family: cursive;
+  margin: auto;
+  padding: 21px;
+}
