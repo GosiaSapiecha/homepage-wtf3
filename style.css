@@ -4,7 +4,7 @@
 
 .purple_text_border {
   border: 4px inset #f2e6ff;
-  height: 196px;
+  min-height: 196px;
 }
 
 .div_flexbox_purple {
@@ -26,8 +26,8 @@ h3 {
   float: left;
 }
 
-#b{
-  width: 25%;
+#b {
+  max-width: 25%;
   float: left;
   padding-left: 85px;
 }
@@ -65,7 +65,7 @@ h3 {
 }
 
 h2 {
-  padding: 0% 2.5% 0% 2.5% ;
+  padding: 0% 2.5% 0% 2.5%;
   padding-top: 18px;
 }
 
@@ -87,7 +87,7 @@ h2 {
 
 .yellow_text_border {
   border: 4px inset #edf2b3;
-  height: 150px;
+  min-height: 150px;
 }
 
 .background_yellow_article {
@@ -121,7 +121,7 @@ h2 {
   padding: 10px;
   margin: 0px 10px 0px 10px;
   box-sizing: border-box;
-  background-color: #77d17f ;
+  background-color: #77d17f;
 }
 
 .navigation {
@@ -147,7 +147,7 @@ h2 {
 
 .green_text_border {
   border: 6px double #7bbd7f;
-  height: 200px;
+  min-height: 200px;
 }
 
 .background_green_article {
@@ -155,7 +155,7 @@ h2 {
 }
 
 #e {
-  width: 75%;
+  min-width: 75%;
   float: left;
   padding-top: 0.5%;
   padding-left: 0.5%;
